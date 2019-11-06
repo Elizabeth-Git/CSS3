@@ -20,7 +20,6 @@ body{
 .penguin2{
   width: 200px;
   height: 200px;
-  float: center;
   background-image:url('penguin_pngs/mound_2.png');
 }
 .penguin3{
@@ -38,7 +37,6 @@ body{
 .penguin5{
   width: 200px;
   height: 200px;
-  float: center;
   background-image:url('penguin_pngs/mound_5.png');
 }
 .penguin6{
@@ -56,6 +54,5 @@ body{
 .penguin8{
   width: 200px;
   height: 200px;
-  float: center;
   background-image:url('penguin_pngs/mound_8.png');
 }
