@@ -11,11 +11,19 @@ body{
   height: 150px;
   background-image:url('penguin_pngs/penguin_title.png');
 }
+.penguin1:hover{
+  background-image:url('mound_1_hover.png');
+  cursor: pointer;
+}
 .penguin1{
   width: 200px;
   height: 200px;
   float: left;
   background-image:url('penguin_pngs/mound_1.png');
+}
+.penguin2:hover{
+  background-image:url('mound_2_hover.png');
+  cursor: pointer;
 }
 .penguin2{
   width: 200px;
@@ -23,11 +31,19 @@ body{
   float: none;
   background-image:url('penguin_pngs/mound_2.png');
 }
+.penguin3:hover{
+  background-image:url('mound_3_hover.png');
+  cursor: pointer;
+}
 .penguin3{
   width: 200px;
   height: 200px;
   float: right;
   background-image:url('penguin_pngs/mound_3.png');
+}
+.penguin4:hover{
+  background-image:url('mound_4_hover.png');
+  cursor: pointer;
 }
 .penguin4{
   width: 200px;
@@ -35,11 +51,19 @@ body{
   float: left;
   background-image:url('penguin_pngs/mound_4.png');
 }
+.penguin5:hover{
+  background-image:url('mound_5_hover.png');
+  cursor: pointer;
+}
 .penguin5{
   width: 200px;
   height: 200px;
   float: none;
   background-image:url('penguin_pngs/mound_5.png');
+}
+.penguin6:hover{
+  background-image:url('mound_6_hover.png');
+  cursor: pointer;
 }
 .penguin6{
   width: 200px;
@@ -47,17 +71,28 @@ body{
   float: right;
   background-image:url('penguin_pngs/mound_6.png');
 }
+.penguin7:hover{
+  background-image:url('mound_7_hover.png');
+  cursor: pointer;
+}
 .penguin7{
   width: 200px;
   height: 200px;
   float: left;
   background-image:url('penguin_pngs/mound_7.png');
 }
+.penguin8:hover{
+  background-image:url('mound_8_hover.png');
+  cursor: pointer;
+}
 .penguin8{
   width: 200px;
   height: 200px;
   float: none;
   background-image:url('penguin_pngs/mound_8.png');
+}
+.yeti:hover{
+  cursor: pointer;
 }
 .yeti{
   width: 200px;
