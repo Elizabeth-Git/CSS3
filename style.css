@@ -26,36 +26,36 @@ body{
 .penguin3{
   width: 200px;
   height: 200px;
-  float: center;
+  float: right;
   background-image:url('penguin_pngs/mound_3.png');
 }
 .penguin4{
   width: 200px;
   height: 200px;
-  float: center;
+  float: left;
   background-image:url('penguin_pngs/mound_4.png');
 }
 .penguin5{
   width: 200px;
   height: 200px;
-  float: right;
+  float: center;
   background-image:url('penguin_pngs/mound_5.png');
 }
 .penguin6{
   width: 200px;
   height: 200px;
-  float: left;
+  float: right;
   background-image:url('penguin_pngs/mound_6.png');
 }
 .penguin7{
   width: 200px;
   height: 200px;
-  float: center;
+  float: left;
   background-image:url('penguin_pngs/mound_7.png');
 }
 .penguin8{
   width: 200px;
   height: 200px;
-  float: right;
+  float: center;
   background-image:url('penguin_pngs/mound_8.png');
 }
