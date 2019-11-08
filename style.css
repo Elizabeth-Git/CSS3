@@ -115,15 +115,21 @@ body{
   float: left;
   background-image:url('penguin_pngs/mound_8.png');
 }
-.yeti:active{
-  background-image:url('penguin_pngs/yeti.png');
-}
 .yeti:hover{
   cursor: pointer;
+}
+.yeti:active{
+  background-image:url('penguin_pngs/yeti.png');
 }
 .yeti{
   width: 200px;
   height: 200px;
   float: left;
-  background-image:url('penguin_pngs/yeti.png');
+  background-image:url('penguin_pngs/mound_9.png');
 }
+$(document).ready( function() {
+   //This code will run after your page loads
+   $(".yeti").mousedown(function() {
+       alert("Yaaaarrrr!");
+   });
+});
