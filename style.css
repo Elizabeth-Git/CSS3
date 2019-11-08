@@ -25,16 +25,16 @@ body{
   background-image:url('penguin_pngs/mound_1.png');
 }
 .penguin2:hover{
-  background-image:url('CSS3/penguin_pngs/mound_2_hover.png');
+  background-image:url('penguin_pngs/mound_2_hover.png');
   cursor: pointer;
 }
 .penguin2:active{
-  background-image:url('CSS3/penguin_pngs/penguin_2.png');
+  background-image:url('penguin_pngs/penguin_2.png');
 }
 .penguin2{
   width: 200px;
   height: 200px;
-  float: none;
+  float: left;
   background-image:url('penguin_pngs/mound_2.png');
 }
 .penguin3:hover{
@@ -47,7 +47,7 @@ body{
 .penguin3{
   width: 200px;
   height: 200px;
-  float: right;
+  float: left;
   background-image:url('penguin_pngs/mound_3.png');
 }
 .penguin4:hover{
@@ -73,7 +73,7 @@ body{
 .penguin5{
   width: 200px;
   height: 200px;
-  float: none;
+  float: left;
   background-image:url('penguin_pngs/mound_5.png');
 }
 .penguin6:hover{
@@ -86,7 +86,7 @@ body{
 .penguin6{
   width: 200px;
   height: 200px;
-  float: right;
+  float: left;
   background-image:url('penguin_pngs/mound_6.png');
 }
 .penguin7:hover{
@@ -112,15 +112,18 @@ body{
 .penguin8{
   width: 200px;
   height: 200px;
-  float: none;
+  float: left;
   background-image:url('penguin_pngs/mound_8.png');
+}
+.yeti:active{
+  background-image:url('penguin_pngs/yeti.png');
 }
 .yeti:hover{
   cursor: pointer;
 }
 .yeti{
   width: 200px;
-  height 200px;
-  float: right;
+  height: 200px;
+  float: left;
   background-image:url('penguin_pngs/yeti.png');
 }
